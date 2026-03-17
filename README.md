@@ -15,6 +15,7 @@
 *4.	Resistors	1 KΩ	3*
 
 *5.	Bread board	---	1*
+<img width="1536" height="1024" alt="ChatGPT Image Feb 26, 2026, 01_30_21 PM" src="https://github.com/user-attachments/assets/616884ed-a076-4035-9f48-32e14c90148f" />
 
 **THEORY:**
 
