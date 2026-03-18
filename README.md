@@ -24,16 +24,17 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1211" height="1600" alt="image" src="https://github.com/user-attachments/assets/34abd603-c242-4109-bd78-a83708d1b06f" />
 
 
+**TABULAR COLUMN:**
 
+<img width="1600" height="808" alt="image" src="https://github.com/user-attachments/assets/6740dbde-6e79-41cb-86c9-2b3eebc508ac" />
 
+**CALCULATION:**
 
-
-
-
-
-
+<img width="1374" height="1600" alt="image" src="https://github.com/user-attachments/assets/d914590b-bc3c-4f88-998b-e4be6c7624b1" />
+<img width="894" height="1600" alt="image" src="https://github.com/user-attachments/assets/7fa0fd44-54a7-47fb-99a6-b39a5b710b55" />
 
 **PROCEDURE:**
 
